@@ -54,21 +54,6 @@ I love building scalable backend systems, designing clean architectures, and con
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
----
-
-## 🏆 Achievements
-- ICPC Asia 2020 Regionals
-- Global Rank 28 — CodeChef Coders Div 3
-- Global Rank 138 — HackerEarth Circuits November '21
-- Winner Code Utsav’21, Runner-up Hack Mafia’21
-- CodeChef: **1840 (4★)** • Codeforces: **1415 (Specialist)**
-
----
-
-## 👥 Leadership & Mentorship
-- CP Head, Coding Club NIT Meghalaya — Trained 150+ juniors
-- Mentor, NITMEA
-- Intern Coordinator, TNP Cell
 
 ---
 
