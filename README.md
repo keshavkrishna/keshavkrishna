@@ -38,19 +38,6 @@ I love building scalable backend systems, designing clean architectures, and con
 
 ---
 
-## 🔭 Pinned Repositories
-
-<p align="center">
-  <!-- Example pinned repos (will render dynamically) -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=keshavkrishna&repo=EliteAide&theme=tokyonight" alt="EliteAide" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=keshavkrishna&repo=Aplenty&theme=tokyonight" alt="Aplenty" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=keshavkrishna&repo=Portkey.ai&theme=tokyonight" alt="Portkey.ai" />
-</p>
-
----
-
 ## 🧰 Tech Stack
 
 <p align="center">
