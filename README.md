@@ -10,20 +10,10 @@ I love building scalable backend systems, designing clean architectures, and con
 
 ## ⚡ GitHub Activity & Stats
 
-<!-- Streak Stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=keshavkrishna&theme=tokyonight&hide_border=true)
-
-<!-- Profile Stats -->
-![Keshav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=keshavkrishna&show_icons=true&theme=tokyonight&hide_border=true)
-
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keshavkrishna&layout=compact&theme=tokyonight&hide_border=true)
-
-<!-- GitHub Trophies -->
-![Trophies](https://github-profile-trophy.vercel.app/?username=keshavkrishna&theme=tokyonight&row=1&no-frame=true&no-bg=true)
-
-<!-- Contribution Graph -->
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=keshavkrishna&theme=tokyo-night)
+![Stats](cached github-readme-stats)
+![Languages](cached top-langs)
+![Activity Graph]
+![Contribution Snake]
 
 ---
 
